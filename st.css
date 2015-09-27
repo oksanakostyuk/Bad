@@ -1,0 +1,63 @@
+#pic {
+		height: 28%;
+}
+
+.blackbird{
+	height: 15%;
+
+}
+
+.logo{
+	text-align: center;
+	color: rgb(236, 30, 40);
+	font-family: serif;
+	font-size: 52;
+	margin: 0px;
+}
+
+.logo1{
+	text-align: center;
+	color: black;
+	font-family: serif;
+	font-size: 52;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+#parone{
+	color: black;
+	font-family: serif;
+	font-size: 20;
+}
+
+#partwo{
+	color: rgb(236, 30, 40);
+	font-family: arial;
+	font-size: 23;
+}
+
+#partree{
+	color: black;
+	font-family: helvetica;
+	font-size: 22;
+}
+
+.tab{
+	text-align: center;
+	border: 3px solid black;
+	border-collapse: collapse;
+	
+}
+
+td{
+	border: 1px solid gray;
+}
+
+#click{
+	color: rgb(236, 30, 40) ;
+	margin-left: 60px;
+}
+
+#cont{
+	text-align: center;
+}
